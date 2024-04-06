@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imadev98
-- 👀 I’m interested in Web & Design ❤
-- 🌱 I’m currently learning VueJs & UnitTesting
-- 📫 How to reach me saadoune.imad@univ-constantine2.dz
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning UnitTesting & DevOps
+- 📫 How to reach me imade760@gmail.com
 
 <!---
 imadev98/imadev98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
