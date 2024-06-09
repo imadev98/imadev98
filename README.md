@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imadev98
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning UnitTesting & DevOps
+- 🌱 I’m currently learning Testing & DevOps
 - 📫 How to reach me imade760@gmail.com
 
 <!---
